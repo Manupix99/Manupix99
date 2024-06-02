@@ -1,1 +1,3 @@
-# Manupix99
+# Hola soy Manuel Acedo
+### Ingenierío especializado en electrónica
+<br> Mi pasión por la ingeniería electrónica y la automatización me impulsa a desarrollar soluciones eficientes y prácticas que mejoren la vida de las personas y optimicen los procesos industriales. El enfoque multidisciplinario me permite tener una visión integral de los proyectos y encontrar soluciones innovadoras que combinen la electrónica y el software de manera efectiva. </br>
