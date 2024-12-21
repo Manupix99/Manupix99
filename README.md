@@ -1,10 +1,10 @@
 # Hola, soy Manuel Acedo
-### Ingeniero especializado en electrónica
-<br> Mi interés por la ingeniería electrónica y la automatización me motiva a crear soluciones prácticas y eficientes que impacten positivamente en la vida de las personas y optimicen los procesos industriales.
-De igual modo, mi enfoque multidisciplinario me permite tener una visión completa de los proyectos, lo que me lleva a encontrar soluciones innovadoras que integren de manera efectiva la electrónica y el software. </br>
+### Ingeniero especializado en electrÃ³nica
+<br> Mi interes por la ingenierÃ­a electrÃ³nica y la automatizaciÃ³n me motiva a crear soluciones prÃ¡cticas y eficientes que impacten positivamente en la vida de las personas y optimicen los procesos industriales.
+De igual modo, mi enfoque multidisciplinario me permite tener una visiÃ³n completa de los proyectos, lo que me lleva a encontrar soluciones innovadoras que integren de manera efectiva la electrÃ³nica y el software. </br>
 
 ## Proyectos actuales:
 
 | Nombre del repositorio | Info | Enlace a doc |
 -------------------------|------|------------|
-| RM-AspNet | Este repositorio está dedicado a mi aprendizaje de .NET. Aquí encontrarás ejemplos, ejercicios y proyectos que me ayudarán a mejorar mis habilidades en esta tecnología. | [GitHub/RM-AspNet](https://github.com/Manupix99/RM-AspNet/blob/master/README.md) |
+| MPXnotes | Este repositorio almacena el cÃ³digo de una app que te permite crear y organizar tus notas de forma sencilla. | [GitHub/MPXnotes](https://github.com/Manupix99/MPXnotes/blob/master/README.md) |
