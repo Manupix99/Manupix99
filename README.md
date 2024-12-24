@@ -5,15 +5,6 @@ De igual modo, mi enfoque multidisciplinario me permite tener una visión comple
 
 <br>
 
-### Repositorios de test:
-Estos son los repositorios que utilizo para realizar pruebas.
-| Nombre del repositorio | Lenguaje | Tecnología | Info |
-|------------------------|----------|------------|------|
-|[TestReflex](https://github.com/Manupix99/TestReflex) | [Python](https://www.python.org/doc/) | [Reflex](https://reflex.dev/docs/getting-started/introduction/) | repositorio utilizado para realizar pruebas de Reflex | 
-|[TestFlet](https://github.com/Manupix99/TestFlet) | [Python](https://www.python.org/doc/) | [Flet](https://flet.dev/docs/) | repositorio utilizado para realizar pruebas de Flet | 
-
-<br>
-
 ### Repositorios de proyectos:
 Estos son los repositorios referentes a los proyectos que he realizado y que estoy realizando actualmente.
 | Nombre del repositorio | Lenguaje | Tecnología | Info |
